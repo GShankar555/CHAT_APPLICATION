@@ -12,9 +12,9 @@ conversations.
 4. Responsive Design: The application is designed to work seamlessly on desktop and mobile
 devices.
 
-![login page](./images/snappy_login.png)
+![login page](./chat-app/images/snappy_login.png)
 
-![home page](./images/snappy.png)
+![home page](./chat-app/images/snappy.png)
 
 ## Installation Guide
 
